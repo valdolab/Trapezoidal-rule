@@ -1,2 +1,2 @@
 # Trapezoidal-rule
-Algoritmo que resuelve integrales definidas mediante el Metodo del Trapecio
+Algorithm for solving definite integrals using the Trapezium Method
